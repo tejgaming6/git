@@ -1,3 +1,5 @@
+this is same name file but in ram barnch, so i will now only commit this one, will not push, then i will pull master, then git will get confused we got same file name, with content which is different, it will ask us to make it right
 i will be making a git merge conflit here, this is my first brancn master
 
 here i will make the commit and then push to remote repo
+ master
