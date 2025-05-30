@@ -1,3 +1,1 @@
-i will be making a git merge conflit here, this is my first brancn master
-
-here i will make the commit and then push to remote repo
+try 1 merge conflt on github
