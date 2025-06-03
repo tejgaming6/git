@@ -1,1 +1,5 @@
 trying out cherry, by making and fixing git merge conflit, by making four branch, first two gonna have a merge conflit, then i will solve them, then i will use cherry pick, fix another git merge on other one branch, which i have made using git merge in another two branches for it
+this is file 3 master branch, lets see how it goes
+ 5d93583 (merge conflict threee but cherry)
+
+fixed this then i will try to use cherry to commit lets see
