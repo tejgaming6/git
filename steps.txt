@@ -20,4 +20,13 @@ git ssh -T git@github.com
 git remote -v
 
 task sechduler 
- 
+ create a task
+add dis
+triggers daily two times a day
+actions start the program ( script )
+conditions all unchecked 
+settings longer than 1 hour, stop the task, runtask as soon after a missed sechdule 
+
+script added 
+updating all commits to log 
+
