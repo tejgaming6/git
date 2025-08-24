@@ -1,0 +1,23 @@
+# how to setup task sechdule in windows and take backup to git repo?
+# note 100mb limit should be considered or it will throw error 
+
+installing git 
+conifure git in the specific folder with git init 
+conifg username 
+conifg mail
+create ssh key 
+add ssh agent with private key
+conifgure public key on github account 
+configure repo and branch
+pull from repo and branch
+then add files to your local repo, git add .
+then git commit -m "msg"
+then git push repo and branch name 
+you are set with git now 
+# note always check branch you are trying to push, main, if it's master change your local branch name to master
+some commands to check 
+git ssh -T git@github.com
+git remote -v
+
+task sechduler 
+ 
